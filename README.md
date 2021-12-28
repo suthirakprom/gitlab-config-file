@@ -1,4 +1,4 @@
-# gitlab-config-file
+# How to change default port for GitLab
 As suggested on https://github.com/gitlabhq/gitlabhq/issues/6581 you can configure port on below file.
 
 Change port to 81 (You can choose your own) at port: near by production:$base >> gitlab: for file /opt/gitlab/embedded/service/gitlab-rails/config/gitlab.yml
